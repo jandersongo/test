@@ -1,0 +1,16 @@
+{
+    "id": "617b08407541196b5ffed9d6",
+    "name": "myTrigger",
+    "type": "SCHEDULED",
+    "config": {
+        "schedule": "*/4 * * * *"
+    },
+    "disabled": false,
+    "event_processors": {
+        "FUNCTION": {
+            "config": {
+                "function_name": "myFunc"
+            }
+        }
+    }
+}
