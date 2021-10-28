@@ -10,9 +10,5 @@
     {
         "name": "func0",
         "private": false
-    },
-    {
-        "name": "myFunc",
-        "private": true
     }
 ]

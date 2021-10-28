@@ -1,4 +1,5 @@
 exports = function(arg){
+  console.log('func2')
   /*
     Accessing application's values:
     var x = context.values.get("value_name");
