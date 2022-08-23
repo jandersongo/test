@@ -4,7 +4,7 @@
             "bsonType": "string"
         },
         "access": {
-            "bsonType": "string"
+            "bsonType": "int"
         },
         "accommodates": {
             "bsonType": "int"
