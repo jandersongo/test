@@ -1,7 +1,7 @@
 {
-    "app_id": "application-6-xxizc",
+    "app_id": "jan_28_v13x_prod-cceoq",
     "config_version": 20210101,
-    "name": "Application-6",
+    "name": "jan_28_v13x_prod",
     "location": "US-VA",
     "provider_region": "aws-us-east-1",
     "deployment_model": "GLOBAL"
