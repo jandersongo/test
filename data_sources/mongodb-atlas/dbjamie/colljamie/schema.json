@@ -1,1 +1,7 @@
-{}
+{
+    "properties": {
+        "jamie_num": {
+            "bsonType": "int"
+        }
+    }
+}
