@@ -1,0 +1,5 @@
+{
+    "on_type": "Query",
+    "field_name": "hello",
+    "function_name": "myCustomResolver"
+}

@@ -1,0 +1,6 @@
+{
+    "read_validation_action": "WARN",
+    "read_validation_level": "STRICT",
+    "write_validation_action": "WARN",
+    "write_validation_level": "MODERATE"
+}
