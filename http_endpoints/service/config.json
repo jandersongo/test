@@ -1,0 +1,6 @@
+{
+    "name": "service",
+    "type": "http",
+    "config": {},
+    "version": 1
+}
